@@ -1,5 +1,5 @@
 {
-  "name": "react-qrcode-gen",
+  "name": "react-qr-code-gen",
   "version": "1.0.0",
   "main": "build/index.js",
   "module": "build/index.esm.js",
